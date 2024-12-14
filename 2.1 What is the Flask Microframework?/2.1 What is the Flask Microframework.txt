@@ -1,6 +1,4 @@
 -> What is Flask? Lesson Overview  
-   -> Lesson Duration: 7 minutes  
-   -> Instructor: Brandon Gigous  
    -> Learn what Flask is, its origins, and why it is a popular choice for building web applications  
 
 -> What is Flask?  
@@ -37,10 +35,10 @@
       -> Twilio (public and private APIs)  
       -> Apache Airflow (backend integration)  
       -> Plotly Dash (data visualisation tools)  
-      -> Former US President ObamaÕs 2012 campaign website  
+      -> Former US President Obama's 2012 campaign website  
 
 -> Why Use Flask?  
-   -> FlaskÕs minimalistic nature allows rapid setup and customisation of web applications  
+   -> Flask's minimalistic nature allows rapid setup and customisation of web applications  
 
       ```python
       from flask import Flask  
