@@ -1,6 +1,6 @@
 # CodingNomads-Flask-2-Microframework
 ## Repository File Tree
-This repository contains my work for the 16th module in the [Coding Nomads Flask Web Framework](https://codingnomads.com/course/python-flask-web-framework) course. I completed this 21-module course as part of my independent learning, to invest in my Python skills. I produced an in-depth library of resources on this module, whose file tree is provided below. 
+This repository contains my work for the 2th module in the [Coding Nomads Flask Web Framework](https://codingnomads.com/course/python-flask-web-framework) course. I completed this 21-module course as part of my independent learning, to invest in my Python skills. I produced an in-depth library of resources on this module, whose file tree is provided below. 
 
 <img width="1028" alt="Screenshot 2025-01-19 at 15 45 09" src="https://github.com/user-attachments/assets/62db04f1-5014-41f9-8f53-60adbeb0e741" />
 
