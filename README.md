@@ -11,7 +11,7 @@ I saved course material as a pdf file and made notes on this. I next made summar
 ![2 1 Word Cloud](https://github.com/user-attachments/assets/6162fe25-20dd-4db4-8d19-717e1e9f7146)
 
 ### Yellow
-A [module quiz](https://github.com/franpanteli/CodingNomads-Flask-2-Microframework/blob/main/2.2%20Quizzes/2.2%20Quiz%20Flask%20Basics.pdf) was finally completed and passed. 
+A [module quiz](https://github.com/franpanteli/CodingNomads-Flask-2-Microframework/blob/main/2.2%20Quizzes/2.2%20Quiz%20Flask%20Basics.pdf) was completed and passed. 
 
 ## To Clone This Repository
 ```
