@@ -6,12 +6,12 @@ This repository contains my work for the 2nd module in the [Coding Nomads Flask 
 
 ## Library Contents
 ### Blue
-I saved course material as a pdf file and made notes. I next made summary notes, by recording a voice memo of Siri reading my written notes out (Voiced Notes.mp4a) and [created a word cloud](https://wordart.com/create) out of this (Word Cloud.png) - to visually represent module content.
+I saved course material as a pdf file and made notes. I next made summary notes, by recording a voice memo of Siri reading my written notes out (Voiced Notes.mp4a). I then [created a word cloud](https://wordart.com/create) out of this (Word Cloud.png), to visually represent module content.
 
 ![2 1 Word Cloud](https://github.com/user-attachments/assets/6162fe25-20dd-4db4-8d19-717e1e9f7146)
 
 ### Yellow
-A [module quiz](https://github.com/franpanteli/CodingNomads-Flask-2-Microframework/blob/main/2.2%20Quizzes/2.2%20Quiz%20Flask%20Basics.pdf) was completed and passed. 
+A [module quiz](https://github.com/franpanteli/CodingNomads-Flask-2-Microframework/blob/main/2.2%20Quizzes/2.2%20Quiz%20Flask%20Basics.pdf) was finally completed and passed. 
 
 ## To Clone This Repository
 ```
