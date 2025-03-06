@@ -1,18 +1,18 @@
--> What is Flask? Lesson Overview  
-   -> Learn what Flask is, its origins, and why it is a popular choice for building web applications  
+-> what is flask? lesson overview  
+   -> learn what flask is, its origins, and why it is a popular choice for building web applications  
 
--> What is Flask?  
-   -> Flask is a Python framework designed to help developers build robust and scalable web applications efficiently  
-   -> It is considered a microframework, meaning it provides a minimalistic approach, allowing developers to pick and choose the tools and libraries they need  
+-> what is flask?  
+   -> flask is a python framework designed to help developers build robust and scalable web applications efficiently  
+   -> it is considered a microframework, meaning it provides a minimalistic approach, allowing developers to pick and choose the tools and libraries they need  
 
--> What is a Microframework?  
-   -> Microframeworks provide the foundational structure for web applications without enforcing specific tools or libraries  
-   -> Unlike full-stack frameworks, microframeworks are lightweight and focus primarily on serving requests and returning responses  
-   -> This gives developers control over key decisions like authentication, database integration, and frontend design  
+-> what is a microframework?  
+   -> microframeworks provide the foundational structure for web applications without enforcing specific tools or libraries  
+   -> unlike full-stack frameworks, microframeworks are lightweight and focus primarily on serving requests and returning responses  
+   -> this gives developers control over key decisions like authentication, database integration, and frontend design  
 
-   -> Flask example:  
+   -> flask example:  
 
-      ```python
+      ```python  
       from flask import Flask  
 
       app = Flask(__name__)  
@@ -25,22 +25,22 @@
           app.run(debug=True)  
       ```  
 
-   -> Key analogy: Think of a microframework as a basic LEGO base plate. You can start with the essentials and build upwards, adding features like authentication and databases  
+   -> key analogy: think of a microframework as a basic lego base plate. you can start with the essentials and build upwards, adding features like authentication and databases  
 
--> Background and Usage of Flask  
-   -> Flask originated as an April Fools' joke by Armin Ronacher but quickly evolved into a widely-used framework  
-   -> Flask has powered major platforms and applications, including:  
-      -> Pinterest (API backend)  
-      -> LinkedIn (internal tools)  
-      -> Twilio (public and private APIs)  
-      -> Apache Airflow (backend integration)  
-      -> Plotly Dash (data visualisation tools)  
-      -> Former US President Obama's 2012 campaign website  
+-> background and usage of flask  
+   -> flask originated as an april fools' joke by armin ronacher but quickly evolved into a widely-used framework  
+   -> flask has powered major platforms and applications, including:  
+      -> pinterest (api backend)  
+      -> linkedin (internal tools)  
+      -> twilio (public and private apis)  
+      -> apache airflow (backend integration)  
+      -> plotly dash (data visualisation tools)  
+      -> former us president obama's 2012 campaign website  
 
--> Why Use Flask?  
-   -> Flask's minimalistic nature allows rapid setup and customisation of web applications  
+-> why use flask?  
+   -> flask's minimalistic nature allows rapid setup and customisation of web applications  
 
-      ```python
+      ```python  
       from flask import Flask  
 
       app = Flask(__name__)  
@@ -53,13 +53,13 @@
           app.run(debug=True)  
       ```  
 
-   -> You can choose the tools that suit your project, such as:  
-      -> Relational databases like PostgreSQL, MySQL, or SQLite  
-      -> NoSQL databases like MongoDB  
-   -> Flask itself only provides the basic server functionality, but the ecosystem of extensions covers features like authentication, form handling, and database management  
+   -> you can choose the tools that suit your project, such as:  
+      -> relational databases like postgresql, mysql, or sqlite  
+      -> nosql databases like mongodb  
+   -> flask itself only provides the basic server functionality, but the ecosystem of extensions covers features like authentication, form handling, and database management  
 
-      Example with Flask-SQLAlchemy:  
-      ```python
+      example with flask-sqlalchemy:  
+      ```python  
       from flask import Flask  
       from flask_sqlalchemy import SQLAlchemy  
 
@@ -79,21 +79,21 @@
           app.run(debug=True)  
       ```  
 
-   -> Extensions for Flask allow it to be tailored to specific project needs. Examples include:  
-      -> Flask-WTF for form handling  
-      -> Flask-Login for user authentication  
-      -> Flask-Migrate for database migrations  
+   -> extensions for flask allow it to be tailored to specific project needs. examples include:  
+      -> flask-wtf for form handling  
+      -> flask-login for user authentication  
+      -> flask-migrate for database migrations  
 
--> Summary: What is Flask?  
-   -> Flask is a Python microframework for building lightweight and scalable web applications  
-   -> Its simplicity makes it a favourite for startups and enterprises alike  
-   -> Flask originated as a joke but has become a vital tool for developers worldwide  
-   -> It is flexible, allowing developers to start with minimal features and expand as needed using open-source extensions  
-   -> Flask enables rapid development and is suitable for both beginners and advanced developers  
+-> summary: what is flask?  
+   -> flask is a python microframework for building lightweight and scalable web applications  
+   -> its simplicity makes it a favourite for startups and enterprises alike  
+   -> flask originated as a joke but has become a vital tool for developers worldwide  
+   -> it is flexible, allowing developers to start with minimal features and expand as needed using open-source extensions  
+   -> flask enables rapid development and is suitable for both beginners and advanced developers  
 
-   Example of using Flask with an open-source extension:  
+   example of using flask with an open-source extension:  
 
-   ```python
+   ```python  
    from flask import Flask  
    from flask_wtf import FlaskForm  
    from wtforms import StringField, SubmitField  
